@@ -1,4 +1,4 @@
-# path_finding_visualizer
+# pathfinding-algorithm-visualizer
 
 A pathfinding algorithm visualizer I built using Flutter / Dart
 
